@@ -1,7 +1,7 @@
 :root {
 	--dtransparencycolor: 0,0,0;
 	--dtransparencyalpha: 0.15;
-	--dmessagetransparency: 0.5;
+	--dmessagetransparency: 0;
 	--dguildchanneltransparency: 0.15;
 	--dmemberlistransparency: 0.0;
 	--daccentcolor: 190,78,180;
