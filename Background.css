@@ -3355,8 +3355,6 @@ html > head + body > div#app-mount.appMount-3VJmYg > div.typeWindows-1za-n7.titl
 
 html > head + body > div#app-mount.appMount-3VJmYg > div.app-19_DXt > div > div.layers-3iHuyZ.flex-vertical.flex-spacer > div.layer-3QrUeG + div.layer-3QrUeG > div.standardSidebarView-3F1I7i:before {
 	content: url('https://i.imgur.com/br1QqJJ.png') !important;
-	width: 100px !important;
-	height: 18px !important;
 	display: inline !important;
 	position: absolute !important;
 	left: unset !important;
