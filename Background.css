@@ -3321,7 +3321,7 @@ html, span:not(.spinner-item) {
 /* ----------------------- COPYRIGHT PROTECTION ----------------------- */
 
 html > head + body > div#app-mount.appMount-3VJmYg > div.typeWindows-1za-n7.titleBar-AC4pGV.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3 > div.wordmark-2iDDfm {
-	content: url('data:image/svg+xml; utf8, <svg width="400" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path stroke="none" fill="#FFF" fill-rule="evenodd" transform="scale(0.6,0.6) translate(5,4)" d="M612.3,471.2c-204.02,0-407.94,0-611.88,0c0-50.13,0-100.25,0-150.4c203.94,0,407.91,0,611.88,0C612.3,370.91,612.3,421.06,612.3,471.2z"></path></svg>') !important;
+	content: url('data:image/svg+xml; utf8, svg version="1.1" id="Laag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve"> <path class="st0" d="M612.3,471.2c-204.02,0-407.94,0-611.88,0c0-50.13,0-100.25,0-150.4c203.94,0,407.91,0,611.88,0C612.3,370.91,612.3,421.06,612.3,471.2z"/>') !important;
 	display: block !important;
 	position: absolute !important;
 	width: 142px !important;
