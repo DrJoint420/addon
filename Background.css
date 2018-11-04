@@ -3354,13 +3354,13 @@ html > head + body > div#app-mount.appMount-3VJmYg > div.typeWindows-1za-n7.titl
 /* in settings menu */
 
 html > head + body > div#app-mount.appMount-3VJmYg > div.app-19_DXt > div > div.layers-3iHuyZ.flex-vertical.flex-spacer > div.layer-3QrUeG + div.layer-3QrUeG > div.standardSidebarView-3F1I7i:before {
-	content: url('https://i.imgur.com/NVcJVxI.png') !important;
+	content: url(https://i.imgur.com/vJnc9P9.png') !important;
 	display: inline !important;
 	position: absolute !important;
 	left: unset !important;
 	bottom: 70px !important;
 	top: unset !important;
-	right: 300px !important;
+	right: 250px !important;
 	opacity: 0.3 !important;
 	padding: 0 !important;
 	margin: 0 !important;
