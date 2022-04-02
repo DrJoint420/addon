@@ -1,3 +1,7 @@
+:root{
+  --fam: Segoe UI;
+}
+
 .h1{
-  font-family: Segoe UI;
+  font-family: var(--fam);
 }
